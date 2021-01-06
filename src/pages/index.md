@@ -3,9 +3,9 @@ templateKey: index-page
 title: Ernest Obihara
 image: /img/home-jumbotron.jpg
 heading: Ernest Obihara
-subheading: Support sustainable farming while enjoying a cup
+subheading: Software Developer / Indie Maker
 mainpitch:
-  title: Software Developer / Indie Maker
+  title:  getnudge.io
   description: >
     Currently making a new Twitter analytics dashboard application.
 
