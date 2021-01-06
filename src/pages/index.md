@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 heading: Ernest Obihara
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: Software Developer / Indie Maker
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
